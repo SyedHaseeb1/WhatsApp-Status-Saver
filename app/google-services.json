@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "663169066853",
+    "firebase_url": "https://whatsapp-saver-748b9-default-rtdb.firebaseio.com",
+    "project_id": "whatsapp-saver-748b9",
+    "storage_bucket": "whatsapp-saver-748b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663169066853:android:9182f2ac9731098136a38c",
+        "android_client_info": {
+          "package_name": "com.hsb.whatsappsaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663169066853-m52ag6rb9oiaq5evs0ig7c7vdhchasrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hsb.whatsappsaver",
+            "certificate_hash": "f9566d0a7b22dfada3b18fcd4ed35ccc6a43a739"
+          }
+        },
+        {
+          "client_id": "663169066853-kughim9vup1oa3ddr5bg7d74dugvhvlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyfK5FSdJcNy-ZBAMgcYDhu2IdpAv9vf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663169066853-kughim9vup1oa3ddr5bg7d74dugvhvlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
